@@ -5,10 +5,11 @@
 ![Scala](https://img.shields.io/badge/scala-%23df311e.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Antonio171003)](https://github.com/dusk1706)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio171003&layout=compact)](https://github.com/dusk1706)
 <!--
 **Antonio171003/Antonio171003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
