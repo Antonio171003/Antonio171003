@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi there! I'm Luis Antonio Peñuelas López
+
+I'm a Computer Systems Engineering student at IT Culiacán, currently interning at Wiringbits since January 2024. I specialize in backend and frontend development using Scala 3, React, Play Framework, and Kotlin. I also serve as a teaching assistant for Algorithms and Data Structures, and actively participate in coding competitions like ICPC and Coding Cups.
 
 ## 💼Technical Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
